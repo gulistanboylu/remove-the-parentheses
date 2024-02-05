@@ -11,6 +11,10 @@
     "url": "https://github.com/gulistanboylu/remove-the-parentheses.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Gulistan Boylu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulistanboylu/remove-the-parentheses/issues"
+  },
+  "homepage": "https://github.com/gulistanboylu/remove-the-parentheses"
 }
